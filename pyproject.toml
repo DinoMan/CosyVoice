@@ -31,7 +31,7 @@ dependencies = [
     "wetext==0.0.4",
     "pyworld==0.3.4",
     "wget==3.2",
-    "matcha-tts @ git+https://github.com/shivammehta25/Matcha-TTS.git",
+    "matcha-tts @ git+https://github.com/DinoMan/Matcha-TTS.git",
 ]
 
 [project.optional-dependencies]
